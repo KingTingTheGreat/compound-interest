@@ -1,0 +1,15 @@
+* {
+	font-family: Helvetica, sans-serif;
+}
+
+.input-group {
+	display: flex;
+}
+
+.input-div {
+	display: flex;
+	flex-direction: column;
+	font-size: large;
+	padding: 0.15rem;
+	margin: 0.1rem;
+}
